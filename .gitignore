@@ -108,3 +108,4 @@ venv/
 README.rst
 build/
 rest_query.egg-info/
+**/**/*.db
